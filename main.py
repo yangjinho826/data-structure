@@ -1,2 +1,6 @@
+from twoSum.twoSumTest import TwoSumTest
+
 if __name__ == "__main__":
-    pass
+    test = TwoSumTest()
+    
+    test.test_main()
